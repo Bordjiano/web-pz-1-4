@@ -1,7 +1,7 @@
 # Practical lesson pz-1-4 WEB
 > create simple markup according to design
 
-### Students should join to repository of group. Discover some UI tool like Figma. And Try to crate simple index html page use UI markup
+### Students should join to repository of group. Discover some UI tool like Figma. And Try to create simple index html page use UI markup
 
 ### Acceptance criteria
 * Create simple index.html page 
